@@ -94,7 +94,7 @@
 }
 @media (max-width:576px){
     .manu ul li a {
-        padding: 6px 99px;
+        padding: 6px 101px;
         color: black;
         transition: 0.4s;
     }
